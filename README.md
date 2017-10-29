@@ -7,7 +7,7 @@
    
    <li>Exemplo de google maps: <a href="https://vagnerasilva.github.io/mapahtml/"> Ver Demo <a/> </li>
   
-  <li>Exemplo de Scroll com Âncoras: <a href="https://github.com/dtoloto/faq-mastertech/tree/master/exemplo-scroll-ancora">Ver Demo</a></li>
+  <li>Exemplo de Scroll com Âncoras: <a href="https://dtoloto.github.io/faq-mastertech/exemplo-scroll-ancora">Ver Demo</a></li>
 </ul>
 
 

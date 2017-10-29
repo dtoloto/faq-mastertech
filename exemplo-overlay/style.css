@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: Sans-serif;
+}
+.image-container {
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
+.image-container img{
+    width: 100%;
+}
+
+.image-container .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: #FFF;
+    background-color: rgba(0,0,0,0.5);
+}
+
+.conteudo{
+    margin-top: 40vh;
+}

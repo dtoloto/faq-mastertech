@@ -1,5 +1,5 @@
 <h1>Exemplo Google Maps</h1>
-<a href=" https://vagnerasilva.github.io/mapahtml/.">  Ver demo </a>
+<a href=" https://vagnerasilva.github.io/mapahtml/">  Ver demo </a>
 
 Para colocar um mapa no seu site segue este tutuorial do proprio Google: 
 
@@ -17,6 +17,3 @@ Para alterar as coordenadas do lugar onde vc quer no mapa vc precisa obter ele n
 var mastertech = {lat: -23.5625769, lng: -46.6565047};
 
 Faça uma busca no google maps e copie esses numeros do browser. https://www.google.com.br/maps/place/Mastertech+Paulista/@-23.5625769,-46.6565047,17z/data=!3m1!4b1!4m5!3m4!1s0x94ce59c8e4bfffff:0x352a399a9872a3b0!8m2!3d-23.5625769!4d-46.654316
-
-
- 

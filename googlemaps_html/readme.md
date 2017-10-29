@@ -1,5 +1,4 @@
-<h1>Exemplo Google Maps</h1>
-<a href="https://vagnerasilva.github.io/mapahtml/"> Ver demo </a>
+<h1>Exemplo Google Maps: </h1><a href="https://vagnerasilva.github.io/mapahtml/">Ver demo </a>
 
 Para colocar um mapa no seu site segue este tutuorial do proprio Google: 
 

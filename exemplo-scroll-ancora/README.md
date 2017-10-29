@@ -1,4 +1,4 @@
-# exmplo-scroll-ancora
+# Exemplo de Scroll com Âncoras
 
 ## Ancoragem
 O  “jogo da velha” indicará que o link será associado a uma parte na mesma página, ou seja, é ele que indicará a ancoragem. 

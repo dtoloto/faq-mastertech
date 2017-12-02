@@ -1,0 +1,24 @@
+<ion-view title="Home" id="page1">
+  <ion-content padding="true" class="has-header">
+    <h1 id="home-heading1" style="color:#000000;">Home Bem vindo</h1>
+    <div>
+      <img src="img/Ready-to-buy-a-home.jpg" style="display: block; width: 100%; height: auto; margin-left: auto; margin-right: auto;">
+    </div>
+    <button id="home-button6" ng-click="cotacao()" class="button button-positive button-block">Tap me!</button>
+    <div id="home-container1" ng-repeat="value in resposta">
+      <div class="list card" id="home-card22">
+        <ion-item class="item-avatar" id="home-list-item16">
+          <h2>{{value.display}}</h2>
+        </ion-item>
+        <div class="item item-body" id="home-list-item-container4">
+          <div id="home-markdown4" class="show-list-numbers-and-dots">
+            <p style="margin-top:0px;color:#000000;">valor da ação:
+              <strong>{{value.valor}}</strong>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="list card" id="home-card21"></div>
+  </ion-content>
+</ion-view>
